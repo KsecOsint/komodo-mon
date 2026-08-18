@@ -1,4 +1,3 @@
-```markdown
 # 🦎 Komodo-mon
 
 **Automated Alternate Alias Discovery and Monitoring**
